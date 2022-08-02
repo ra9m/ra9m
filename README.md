@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ra9m
-- 👀 I’m interested in getting into Software Engineering! I'm currently a Chemistry major but my Research is in computation chemistry so my love for coding started there.
+- 👋 Hi, I’m @ra9m, a recent college graduate.
+- 👀 I’m interested in transitioning to Data Science. 
 - 🌱 I’m currently learning how to use Python (for solving science problems, like solving equations, running simulations, etc.)
 - 💞️ I’m looking to collaborate on scientific computational projects! If you're doing any simulations or anything math/physics/chemistry related, hit me up!
 - 📫 How to reach me:
