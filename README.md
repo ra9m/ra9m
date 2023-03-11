@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ra9m, a recent college graduate.
-- 👀 I’m interested in transitioning to Data Science. 
-- 🌱 I’m currently learning how to use Python (for solving science problems, like solving equations, running simulations, etc.)
-- 💞️ I’m looking to collaborate on scientific computational projects! If you're doing any simulations or anything math/physics/chemistry related, hit me up!
+- 👀 I’m interested becoming a Data Analyst
+- 🌱 I’m currently mastering SQL as well as learning data visualization tools like Power BI.
+- 💞️ I’m looking to collaborate on anything data visualization related.
 - 📫 How to reach me:
 -        - you can reach me here, or via email: scottminhle@gmail.com
 -
